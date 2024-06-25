@@ -9,8 +9,8 @@ const NewTaskPage = () => {
   return (
     <section className='py-6'>
         <Box>
-          <div className='w-full flex flex-col'>
-              <h1>New Task</h1>
+          <div className='w-full  flex flex-col'>
+              <h1>New Tasks</h1>
               <p>Add a new task below</p>
               <TaskForm />
           </div>
