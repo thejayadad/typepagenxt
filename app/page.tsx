@@ -4,6 +4,7 @@ import prisma from '@/lib/prisma'
 import Link from 'next/link'
 import React, { Suspense } from 'react'
 
+
 const HomePage = async () => {
   return (
     <div className='py-6'>
